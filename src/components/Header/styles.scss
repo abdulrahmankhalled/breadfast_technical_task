@@ -1,0 +1,22 @@
+nav {
+	box-shadow: 0px 0px 35px 0px rgba(154, 161, 171, 0.15);
+}
+
+.brand {
+	margin-right: 15px;
+}
+
+.brand__title {
+	@media (max-width: 767px) {
+		display: none;
+	}
+}
+
+.brand_link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.navbar-text {
+	flex-shrink: 0;
+}
