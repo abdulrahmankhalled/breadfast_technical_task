@@ -1,4 +1,5 @@
 {
+	"homepage": "https://abdulrahmankhalled.github.io/breadfast_technical_task/",
 	"name": "breadfast_task",
 	"version": "0.1.0",
 	"private": true,
@@ -32,6 +33,8 @@
 	},
 	"scripts": {
 		"start": "react-scripts start",
+		"predeploy": "npm run build",
+		"deploy": "gh--pages -d build",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
@@ -53,6 +56,7 @@
 		"@babel/eslint-parser": "^7.17.0",
 		"autoprefixer": "^10.4.2",
 		"eslint": "^8.10.0",
+		"gh-pages": "^3.2.3",
 		"postcss": "^8.4.7",
 		"tailwindcss": "^3.0.23"
 	}
