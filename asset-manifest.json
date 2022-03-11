@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/breadfast_technical_task/static/css/main.9e72219d.css",
-    "main.js": "/breadfast_technical_task/static/js/main.be8bb7f7.js",
-    "index.html": "/breadfast_technical_task/index.html",
-    "main.9e72219d.css.map": "/breadfast_technical_task/static/css/main.9e72219d.css.map",
-    "main.be8bb7f7.js.map": "/breadfast_technical_task/static/js/main.be8bb7f7.js.map"
+    "main.css": "/static/css/main.9e72219d.css",
+    "main.js": "/static/js/main.be8bb7f7.js",
+    "index.html": "/index.html",
+    "main.9e72219d.css.map": "/static/css/main.9e72219d.css.map",
+    "main.be8bb7f7.js.map": "/static/js/main.be8bb7f7.js.map"
   },
   "entrypoints": [
     "static/css/main.9e72219d.css",
